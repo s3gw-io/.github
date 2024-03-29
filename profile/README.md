@@ -6,7 +6,7 @@ deployed in a myriad of scenarios, provided some form of storage is attached.
 ## A bit of background
 
 Initially developed by the storage team at SUSE, its primary focus was running
-on native environments, namely in a Kubernetes environment backed by any
+on cloud native environments, namely in a Kubernetes environment backed by any
 Persistent Volume Claim that was provided.
 
 In late 2023, SUSE decided to abandon the s3gw project as it no longer fit their
