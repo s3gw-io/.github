@@ -40,3 +40,14 @@ paper cuts.
 
 Any feedback will be welcomed with enthusiasm!
 
+## Feedback
+
+Please consider using our [**Discussions**][discussions_url] page to provide
+feedback, ask questions, and share your ideas.
+
+Additionally, we are currently running a [**Community Census**][census_url],
+to assess traction, the shape of our community, and where we should focus our
+efforts. Participation is most welcome!
+
+[discussions_url]: https://github.com/orgs/s3gw-tech/discussions
+[census_url]: https://forms.gle/2TJHtX6aXLQ9ok2H7
